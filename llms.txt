@@ -1,7 +1,8 @@
 # Antisystem Barbershop
 
 > Italian barbershop at 124B Roscoe St, Bondi Beach NSW 2026, Australia.
-> Men's cuts, skin fades, beard trims and the Italian beard trim with shave.
+> Men's cuts, skin fades, beard trims, and straight razor shaving — including
+> a hot towel shave — under The Italian beard trim with shave.
 > Opened by Andrea, an Italian barber. Walk-ins taken when a chair is free;
 > booking is not required but is the only way to be sure of a time.
 
@@ -38,9 +39,18 @@ Andrea, Gracie and Dave. Any of the three can be chosen when booking on Fresha.
 ## Area
 Bondi Beach, Bondi, North Bondi, Bondi Junction, Tamarama and Bronte.
 
+## Razor work and shaving
+Antisystem does straight razor work, and all of it is done inside The Italian
+beard trim with shave ($65, 30 min):
+- a full face shave with a straight razor
+- a hot towel shave
+- a razor finish on the cheeks and neck after a beard trim
+- a razor head shave
+
+There is no separate shave line on the booking menu. Book the Italian beard
+trim with shave and tell your barber which of these you want.
+
 ## What Antisystem does not offer
-- No hot towel straight razor shave, head shave, or full face shave of any kind.
-  The razor work on the menu is the finish to a beard trim, on the cheeks and neck.
 - The entrance has a step, so it is not wheelchair accessible.
 - Closed on Sundays.
 
