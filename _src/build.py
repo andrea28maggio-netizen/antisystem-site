@@ -22,6 +22,7 @@ SERVICES = [
               ("Skin fade only", "30 min", 55, "/skin-fade-bondi"), ("Buzz cut", "20 min", 40, "/mens-haircut-bondi"),
               ("Under 18 Cuts", "30 min", 50, "/kids-haircut-bondi")]),
     ("Beard", [("Beard Trim", "15 min", 35, "/italian-shave-bondi"),
+               ("Hot Towel Shave", "30 min", 65, "/italian-shave-bondi"),
                ("The Italian beard trim with shave", "30 min", 65, "/italian-shave-bondi")]),
     ("Combo", [("Men's Cut + Beard Trim", "45 min", 90, "/mens-haircut-bondi")]),
 ]
@@ -660,6 +661,7 @@ PAGES["services.html"] = page("/services", "Barber Services and Prices, Bondi Be
   <p><strong>Buzz cut — $40, twenty minutes.</strong> One grade all over, top and sides, no fade and no fuss.</p>
   <p><strong>Under 18 Cuts — $50, thirty minutes.</strong> Anyone under eighteen, from a first proper barbershop cut to a teenager who already knows exactly which fade he wants. Same chair, same barbers, same standard as every adult cut.</p>
   <p><strong>Beard Trim — $35, fifteen minutes.</strong> Clippers and scissors. Shaped and refined, lines cleaned up, kept in proportion with your face. No razor.</p>
+  <p><strong>Hot Towel Shave — $65, thirty minutes.</strong> Hot towels to soften the beard, lather, the straight razor, and a cold towel to finish. Book it on its own when the shave is what you came for.</p>
   <p><strong>The Italian beard trim with shave — $65, thirty minutes.</strong> This is the razor booking, and it covers all of it: a <a href="/italian-shave-bondi" style="text-decoration:underline">hot towel shave</a>, a full straight razor shave, a razor head shave, or a razor finish on the cheeks and neck. One price whichever you pick.</p>
   <p><strong>Men's Cut + Beard Trim — $90, forty-five minutes.</strong> Both in one visit, which is cheaper and quicker than booking them separately.</p>
   <h2 class="h3">Walk in or book.</h2>
